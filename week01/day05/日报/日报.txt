@@ -1,0 +1,71 @@
+2020-06-01工作内容:
+    1.缓存商场首页内容
+    2.缓存同步
+
+2020-06-02工作内容:
+   1、ElasticSearch介绍
+   1.2 elasticsearch原理
+   2、ES安装
+   3、安装Kibana
+   4、安装head
+   5、ES快速入门
+        5.1 删除index
+        5.2 mapping管理
+            5.2.1 创建mapping
+            5.2.2查询mapping
+            5.2.3更新mapping
+            5.2.4删除mapping
+        5.3 document管理
+            5.3.1创建document
+            5.3.2查询document
+            5.3.3删除Document
+
+        5.4.ES读写原理
+            5.4.1 documnet routing（数据路由）
+            5.4.2 ES document写操作原理、
+   6、IK分词器
+        6.1分词器
+        6.2安装IK分词器
+        6.4.两种分词模式
+           1、ik_max_word
+           2、ik_smart
+        6.5.自定义词库
+   7、field的属性介绍
+        7.1 type
+        7.2 analyzer
+        7.3 index
+        7.4 field索引不存储
+        7.5 常用field类型
+            7.5.1 text文本字段
+            7.5.2 keyword关键字字段
+   8、Spring Boot整合ElasticSearch
+        8.1 ES客户端
+        8.2 搭建工程
+   9、索引管理
+
+2020-06-03工作内容:
+ 1、创建索引库
+ 2、	添加文档
+ 3、批量添加文档
+ 4、	修改文档
+ 5、	删除文档
+ 6、简单搜索
+ 7、dsl搜索
+	1、match_all
+	2、分页查询
+ 8、match查询
+ 9、multi_match查询
+ 10、bool查询
+ 11、filter查询
+   
+2020-06-04工作内容:
+    1、那个高亮的单词忘记，高亮设置
+    2、ElasticSearch集群搭建
+    3、ElasticSearch整合项目，将商品信息导入到索引库中
+
+2020-06-05工作内容:
+    1、导入商品数据到索引库
+    2、商品通过索引库搜索
+    3、商品添加同步索引库
+
+
