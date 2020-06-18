@@ -21,7 +21,7 @@
             5.3.3删除文档
 
         5.4.ES读写原理
-            5.4.1 documnet routing（数据路由）
+            5.4.1 documnet routing(数据路由)
             5.4.2 ES文档写操作原理，
    6，IK分词器
         6.1分词器
